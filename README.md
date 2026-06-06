@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hi there, I'm Ben!
 
 ### Python \& Lua Developer
 
@@ -19,7 +19,7 @@
 
 ### Goals
 
-🎯 I aim to continuously develop my coding ability, as well as expand into other languages, tasks and projects.
+I aim to continuously develop my coding ability, as well as expand into other languages, tasks and projects.
 
 <!--
 Here are some ideas to get you started:
