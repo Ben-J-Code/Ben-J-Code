@@ -15,7 +15,7 @@
 ### Voluntary Work
 
 1️⃣ I volunteer for the Head of Department for Computing at a secondary school to help run a lunch time club for programming with other students.<br>
-2️⃣ I helped develop a parish website to showcase their cafe as well as its history.
+2️⃣ I helped redesign a parish website to showcase their church, history, cafe and faith.
 
 ### Goals
 
